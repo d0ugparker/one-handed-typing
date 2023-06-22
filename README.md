@@ -12,8 +12,8 @@ horrible layout to begin with, and typing on it with only one hand is even more
 terrible. On a standard QWERTY keyboard, one handed typists must move their
 wrist horizontally left and right to access many common keys. The repetitive
 strain of this movement takes its toll, and after each work day of typing, I
-was coming home with a lot of pain in my wrist. Needless to say, when you only
-have one good hand, this is something to be avoided at all costs.
+was coming home with a lot of pain in my wrist. When you only have one good hand, 
+this is something to be avoided at all costs.
 
 ## Solutions
 There are a quite a few solutions out there. These are the ones I considered
@@ -103,7 +103,7 @@ doable.
 
 I now pretty consistently touch type at around 45 wpm.
 I've heard that the average two handed touch typist has a typing speed of about 58
-wpm; while the average typist (hunt and peck, and it's variants) clocks in at
+wpm; while the average typist (hunt and peck, and its variants) clocks in at
 around 36 wpm.
 
 ## Extras modifications for periphery keys
